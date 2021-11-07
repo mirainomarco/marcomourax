@@ -1,3 +1,5 @@
+<img src="./banner.jpg" alt="name banner" />
+
 ### Hi there, I'm Marcos Moura.
 <div align="center">
   <a href="https://github.com/marcomourax">
