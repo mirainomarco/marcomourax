@@ -1,4 +1,4 @@
-<img src="./banner.jpg" alt="name banner" />
+<img src="./banner.png" alt="name banner" />
 
 ### Hi there, I'm Marcos Moura.
 <div align="center">
