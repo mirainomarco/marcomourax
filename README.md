@@ -1,5 +1,10 @@
 <img src="./banner.png" alt="name banner" />
 
+<div>
+  <h1>Hello everyone, pleasure.</h1>
+  <p></p>
+</div>
+<hr>
 <div align="center">
   <a href="https://github.com/mirainomarco">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mirainomarco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
