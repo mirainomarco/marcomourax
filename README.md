@@ -2,7 +2,7 @@
 
 <div>
   <h1>Hello everyone, pleasure.</h1>
-  <p>I'm a newbie in this programming world, I got into it because I'm passionate about everything about Artificial Intelligence and Machine Learning, so I decided to start with python, but I'm also learning about web development. let me know if you have any questions. <a href = "mailto:marcomoura@naver.com">let me know if you have any questions</a>. Looking forward to working with you!</p> 
+  <p>I'm a newbie in this programming world, I got into it because I'm passionate about everything about Artificial Intelligence and Machine Learning. So I decided to start with python, but I'm also learning about web development. let me know if you have any questions. <a href = "mailto:marcomoura@naver.com">let me know if you have any questions</a>. Looking forward to working with you!</p> 
 </div>
 
 <hr>
