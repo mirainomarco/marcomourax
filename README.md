@@ -2,7 +2,7 @@
 
 <div>
   <h1>Hello everyone, pleasure.</h1>
-  <p>I'm a newbie in this programming world, I got into it because I'm passionate about everything about Artificial Intelligence and Machine Learning. So I decided to start with python, but I'm also learning about web development. let me know if you have any questions. <a href = "mailto:marcomoura@naver.com">let me know if you have any questions</a>. Looking forward to working with you!</p> 
+  <p>I'm a newbie in this programming world, I got into it because I'm passionate about everything about Artificial Intelligence and Machine Learning. So I decided to start with python, but I'm also learning about web development. let me know if you have any questions. <a href = "mailto:businessmoura@outlook.com">let me know if you have any questions</a>. Looking forward to working with you!</p> 
 </div>
 
 <hr>
@@ -29,8 +29,8 @@
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
  	<a href="https://www.twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marco-moura-801a584b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:marcomoura@naver.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
-  <a href="marcoshihoin" target="_blank"><img src="https://img.shields.io/badge/微信-2DC100?style=for-the-badge&logo=wechat&logoColor=white" target="_blank"></a>
+  <a href = "mailto:businessmoura@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
+  <!--<a href="marcoshihoin" target="_blank"><img src="https://img.shields.io/badge/微信-2DC100?style=for-the-badge&logo=wechat&logoColor=white" target="_blank"></a>-->
  
   ![Snake animation](https://github.com/mirainomarco/mirainomarco/blob/output/github-contribution-grid-snake.svg) 
 </div>
