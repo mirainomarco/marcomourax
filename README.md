@@ -8,9 +8,9 @@
 <hr>
 
 <div align="center">
-  <a href="https://github.com/mirainomarco">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mirainomarco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirainomarco&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/marcodmoura">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcodmoura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodmoura&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -32,7 +32,7 @@
   <a href = "mailto:businessmoura@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
   <!--<a href="marcoshihoin" target="_blank"><img src="https://img.shields.io/badge/微信-2DC100?style=for-the-badge&logo=wechat&logoColor=white" target="_blank"></a>-->
  
-  ![Snake animation](https://github.com/mirainomarco/mirainomarco/blob/output/github-contribution-grid-snake.svg) 
+  ![Snake animation](https://github.com/marcodmoura/marcodmoura/blob/output/github-contribution-grid-snake.svg) 
 </div>
   
 <div align="center">
