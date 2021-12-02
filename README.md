@@ -30,7 +30,7 @@
  	<a href="https://www.twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:marcomoura@naver.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marco-moura-801a584b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="marcoshihoin" target="_blank"><img src="https://img.shields.io/badge/wechat-2DC100?style=for-the-badge&logo=wechat&logoColor=white" target="_blank"></a>
+  <a href="marcoshihoin" target="_blank"><img src="https://img.shields.io/badge/微信-2DC100?style=for-the-badge&logo=wechat&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/mirainomarco/mirainomarco/blob/output/github-contribution-grid-snake.svg) 
 </div>
