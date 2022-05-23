@@ -29,7 +29,7 @@
   <!--<a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
  	<a href="https://www.twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marco-moura-801a584b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/marco-moura-801a584b/](https://www.linkedin.com/in/thomasmoura/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:businessmoura@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
   <!--<a href="thomas" target="_blank"><img src="https://img.shields.io/badge/微信-2DC100?style=for-the-badge&logo=wechat&logoColor=white" target="_blank"></a>-->
  
