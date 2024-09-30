@@ -9,7 +9,9 @@ I'm a newbie in this programming world, I got into it because I'm passionate abo
 
 ### 🌎 Location & 📱 Contact
 
-I am currently based in beautiful **São Paulo, SP** ...and I'm always up for traveling or exploring new locations.
+I am currently based in beautiful **São Paulo, SP** - and I'm always up for traveling or exploring new locations.
+
+I am available via **text message**, **email**, and [LinkedIn](https://www.linkedin.com/thomasamoura/) at all times - sans plane rides and sleeping hours. I will respond to everyone upon receipt., if urgent. Always feel free to text me if you need something and I have given you my number.
 
 <div align="center">
   <img src="./banner.gif" alt="name banner" />
