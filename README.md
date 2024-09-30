@@ -1,4 +1,5 @@
 <img src="./banner.png" alt="name banner" />
+![](https://raw.githubusercontent.com/thomasamoura/thomasamoura/images/banner.png)
 
 <div>
   <h1>Hello everyone, pleasure.</h1>
