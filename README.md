@@ -33,7 +33,7 @@
   <a href = "mailto:businessmoura@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
   <!--<a href="thomas" target="_blank"><img src="https://img.shields.io/badge/微信-2DC100?style=for-the-badge&logo=wechat&logoColor=white" target="_blank"></a>-->
  
-  ![Snake animation](https://github.com/thomasamoura/thomasamoura/blob/output/github-contribution-grid-snake.svg) 
+  <!--![Snake animation](https://github.com/thomasamoura/thomasamoura/blob/output/github-contribution-grid-snake.svg)-->
 </div>
   
 <div align="center">
