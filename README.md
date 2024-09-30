@@ -18,15 +18,21 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thomasamoura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasamoura&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+### 💬 Miscellany
+
+#### Visitors (since 14 November 2021)
+
+![Counter](https://count.getloli.com/get/@dynamicwebpaige?theme=rule23)
   
-<div style="display: inline_block"><br>
-  <!--<img align="center" alt="thomas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<!--<div style="display: inline_block"><br>
+  <img align="center" alt="thomas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="thomas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="thomas-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="thomas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="thomas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="thomas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="right" alt="thomas-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/62751631?v=4">-->
+ <img align="right" alt="thomas-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/62751631?v=4">
 </div>
   
 ##
@@ -39,6 +45,6 @@
   <a href = "mailto:businessmoura@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
   <!--<a href="thomas" target="_blank"><img src="https://img.shields.io/badge/微信-2DC100?style=for-the-badge&logo=wechat&logoColor=white" target="_blank"></a>-->
  
-  <!--[Snake animation](https://github.com/thomasamoura/thomasamoura/blob/output/github-contribution-grid-snake.svg)-->
-</div>
+  <!--[Snake animation](https://github.com/thomasamoura/thomasamoura/blob/output/github-contribution-grid-snake.svg)
+</div>-->
   
