@@ -1,5 +1,5 @@
 <img src="./banner.png" alt="name banner" />
-![Banner](https://raw.githubusercontent.com/thomasamoura/thomasamoura/c7a88961e1c10e279e2ee0882cd928129f90cb52/banner.png)
+![](https://github.com/thomasamoura/thomasamoura/raw/main/banner.png)
 
 # Hello everyone, pleasure.
 
