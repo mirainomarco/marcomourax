@@ -1,8 +1,8 @@
 <img src="./banner.png" alt="name banner" />
-![](https://raw.githubusercontent.com/thomasamoura/thomasamoura/c7a88961e1c10e279e2ee0882cd928129f90cb52/images/banner.png)
+![Banner](https://raw.githubusercontent.com/thomasamoura/thomasamoura/c7a88961e1c10e279e2ee0882cd928129f90cb52/images/banner.png)
 
+# Hello everyone, pleasure.
 <div>
-  <h1>Hello everyone, pleasure.</h1>
   <p>I'm a newbie in this programming world, I got into it because I'm passionate about everything about Artificial Intelligence and Machine Learning. So I decided to start with python, but I'm also learning about web development. <a href = "mailto:businessmoura@outlook.com">let me know if you have any questions</a>. Looking forward to working with you! I am 10 billion percent sure!</p> 
 </div>
 
