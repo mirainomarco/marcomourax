@@ -13,17 +13,15 @@
 
 <hr>
 
+### 💬 Miscellany
+
 <div align="center">
   <a href="https://github.com/thomasamoura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thomasamoura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasamoura&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-### 💬 Miscellany
 
-#### Visitors (since 14 November 2021)
-
-![Counter](https://count.getloli.com/get/@dynamicwebpaige?theme=rule23)
   
 <!--<div style="display: inline_block"><br>
   <img align="center" alt="thomas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
