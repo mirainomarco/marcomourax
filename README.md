@@ -7,6 +7,10 @@ I'm a newbie in this programming world, I got into it because I'm passionate abo
 
 *******
 
+### 🌎 Location & 📱 Contact
+
+I am currently based in beautiful **São Paulo, SP** ...and I'm always up for traveling or exploring new locations.
+
 <div align="center">
   <img src="./banner.gif" alt="name banner" />
 </div>
