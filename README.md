@@ -1,5 +1,4 @@
 <img src="./banner.png" alt="name banner" />
-![](main/banner.png)
 
 # Hello everyone, pleasure.
 
